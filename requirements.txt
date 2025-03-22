@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+torchtune
+huggingface_hub
+transformers
+silentcipher
+moshi
+flask
+pyngrok
+edge-tts
+numpy
+jupyter

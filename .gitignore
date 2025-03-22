@@ -1,0 +1,28 @@
+
+# Virtual environments
+
+**/venv/
+
+**/*_venv/
+
+**/csm_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Google Cloud SDK
+**/google-cloud-sdk/
+**/gcloud version/
+
+# Generated audio and session data
+**/generated_audio/
+**/session_data/
+
+# Large model files
+**/*.pt
+**/*.bin
+**/*.ckpt
